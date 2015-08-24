@@ -1,2 +1,0 @@
-# c-
-codigos c
